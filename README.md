@@ -27,19 +27,12 @@ The system is designed using **industry-standard backend practices** with scalab
 - RESTful APIs  
 - Maven  
 
-### Frontend
-- Angular  
-- TypeScript  
-- HTML5  
-- CSS  
-
 ### Database
 - MySQL  
 
 ### Tools
 - Postman (API testing)  
-- STS (Backend)  
-- VS Code (Frontend)  
+- STS (IDE)  
 - MySQL Workbench  
 
 ---
@@ -63,7 +56,6 @@ The backend follows a **layered architecture**:
 - Role-based access control (PATIENT, PROVIDER, ADMIN)
 - Password encryption
 - Secured REST endpoints
-- Backend designed to be **JWT-ready** for future scalability
 
 ---
 
