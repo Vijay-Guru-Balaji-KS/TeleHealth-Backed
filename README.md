@@ -1,6 +1,6 @@
 # Telehealth Platform
 
-A full-stack **Telehealth Platform** designed to enable online healthcare consultations by managing users, appointments, schedules, and medical interactions.  
+A springboot application **Telehealth Platform** designed to enable onine healthcare consultations by managing users, appointments, schedules, and medical interactions.  
 The project focuses on **clean backend architecture**, **role-based access control**, and **real-world healthcare workflows**.
 
 ---
